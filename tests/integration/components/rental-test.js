@@ -25,7 +25,7 @@ module('Integration | Component | rental', function(hooks) {
         category: 'Mansion',
         type: 'Mansion',
         bedrooms: 10,
-        image: '../assets/images/villa.jpg',
+        image: '/assets/images/villa.jpg',
         description: 'This cozy mansion sits on over 100 acres of tropical rainforest.',
       }
     });

@@ -13,7 +13,7 @@
       },
       "category": "Apartment",
       "bedrooms": 2,
-      "image": "../assets/images/apartment.jpg",
+      "image": "/assets/images/apartment.jpg",
       "description": "A commuters dream. This rental is within walking distance of many bus stops."
     }
   }
