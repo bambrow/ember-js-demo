@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "downtown-charm",
+    "attributes": {
+      "title": "Downtown Charm",
+      "owner": "David",
+      "location": "Taipei",
+      "coordinates": {
+        "lat": 25.0330,
+        "lng": 121.5654,
+        "zoom": 10
+      },
+      "category": "Estate",
+      "bedrooms": 999,
+      "image": "/assets/images/building.jpg",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

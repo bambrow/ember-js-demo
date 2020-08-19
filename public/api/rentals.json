@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "type": "rentals",
+      "id": "cozy-mansion",
+      "attributes": {
+        "title": "Cozy Mansion",
+        "owner": "David",
+        "location": "Amazon Rainforest",
+        "coordinates": {
+          "lat": -3.4653,
+          "lng": -62.2159,
+          "zoom": 3
+        },
+        "category": "Mansion",
+        "bedrooms": 10,
+        "image": "/assets/images/villa.jpg",
+        "description": "This cozy mansion sits on over 100 acres of tropical rainforest."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "urban-living",
+      "attributes": {
+        "title": "Urban Living",
+        "owner": "David",
+        "location": "Yakutsk",
+        "coordinates": {
+          "lat": 62.0397,
+          "lng": 129.7422,
+          "zoom": 10
+        },
+        "category": "Apartment",
+        "bedrooms": 2,
+        "image": "/assets/images/apartment.jpg",
+        "description": "A commuters dream. This rental is within walking distance of many bus stops."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "downtown-charm",
+      "attributes": {
+        "title": "Downtown Charm",
+        "owner": "David",
+        "location": "Taipei",
+        "coordinates": {
+          "lat": 25.0330,
+          "lng": 121.5654,
+          "zoom": 10
+        },
+        "category": "Estate",
+        "bedrooms": 999,
+        "image": "/assets/images/building.jpg",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "nature-life",
+      "attributes": {
+        "title": "Nature Life",
+        "owner": "David",
+        "location": "Death Valley",
+        "coordinates": {
+          "lat": 36.5323,
+          "lng": -116.9325,
+          "zoom": 6
+        },
+        "category": "House",
+        "bedrooms": 6,
+        "image": "/assets/images/house.jpg",
+        "description": "Perfect fit for nature lover. Enjoy the purest nature life."
+      }
+    }
+  ]
+}

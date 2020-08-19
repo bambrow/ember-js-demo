@@ -1,0 +1,11 @@
+<div class="map">
+  <button type="button" class="zoom" {{on 'click' this.toggleZoom}}>
+    <img alt="Map image at coordinates {{@lat}},{{@lng}}"
+         ...attributes
+         src={{this.src}}
+         width={{@width}}
+         height={{@height}}
+    >
+    <small>Zoom {{if this.isZoomed 'Out' 'In'}}</small>
+  </button>
+</div>

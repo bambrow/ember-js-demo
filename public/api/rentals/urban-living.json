@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "urban-living",
+    "attributes": {
+      "title": "Urban Living",
+      "owner": "David",
+      "location": "Yakutsk",
+      "coordinates": {
+        "lat": 62.0397,
+        "lng": 129.7422,
+        "zoom": 10
+      },
+      "category": "Apartment",
+      "bedrooms": 2,
+      "image": "/assets/images/apartment.jpg",
+      "description": "A commuters dream. This rental is within walking distance of many bus stops."
+    }
+  }
+}

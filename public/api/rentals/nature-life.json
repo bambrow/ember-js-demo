@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "nature-life",
+    "attributes": {
+      "title": "Nature Life",
+      "owner": "David",
+      "location": "Death Valley",
+      "coordinates": {
+        "lat": 36.5323,
+        "lng": -116.9325,
+        "zoom": 6
+      },
+      "category": "House",
+      "bedrooms": 8,
+      "image": "/assets/images/house.jpg",
+      "description": "Perfect fit for nature lover. Enjoy the purest nature life."
+    }
+  }
+}

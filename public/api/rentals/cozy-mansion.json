@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "cozy-mansion",
+    "attributes": {
+      "title": "Cozy Mansion",
+      "owner": "David",
+      "location": "Amazon Rainforest",
+      "coordinates": {
+        "lat": -3.4653,
+        "lng": -62.2159,
+        "zoom": 3
+      },
+      "category": "Mansion",
+      "bedrooms": 10,
+      "image": "/assets/images/villa.jpg",
+      "description": "This cozy mansion sits on over 100 acres of tropical rainforest."
+    }
+  }
+}
