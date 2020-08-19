@@ -52,7 +52,7 @@
     "qunit-dom": "^1.2.0"
   },
   "engines": {
-    "node": "10.* || >= 12"
+    "node": "10.* || 12.18.2"
   },
   "ember": {
     "edition": "octane"
