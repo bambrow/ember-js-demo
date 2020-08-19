@@ -45,7 +45,11 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
+This project has been deployed to Heroku. 
+Due to the Ember.js application Heroku buildpack issue, in `package.json` the `node` version is set to `12.18.2`. 
+See [Heroku tutorial](https://www.heroku.com/emberjs) and [buildpack source code](https://github.com/heroku/heroku-buildpack-emberjs) for details.
 
+The demo of this project can be found [here](https://ember-js-super-rentals.herokuapp.com/).
 
 ## Further Reading / Useful Links
 

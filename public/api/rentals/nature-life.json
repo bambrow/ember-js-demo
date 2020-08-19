@@ -13,7 +13,7 @@
       },
       "category": "House",
       "bedrooms": 8,
-      "image": "/assets/images/house.jpg",
+      "image": "../assets/images/house.jpg",
       "description": "Perfect fit for nature lover. Enjoy the purest nature life."
     }
   }

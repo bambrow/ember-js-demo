@@ -13,7 +13,7 @@
       },
       "category": "Estate",
       "bedrooms": 999,
-      "image": "/assets/images/building.jpg",
+      "image": "../assets/images/building.jpg",
       "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
     }
   }
